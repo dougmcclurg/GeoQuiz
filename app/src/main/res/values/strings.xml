@@ -2,11 +2,19 @@
 <resources>
 
     <string name="app_name">Geo Quiz</string>
-    <string name="question_text">Is Brooklyn the best Borough?</string>
+    <string name="question_borough">Is Brooklyn the best Borough?</string>
+    <string name="question_park">Is Central Park the best park?</string>
+    <string name="question_bridge">Is Manhattan bridge the best bridge?</string>
+    <string name="question_food">Is Brooklyn food tastier?</string>
     <string name="action_settings">Settings</string>
     <string name="false_button">No Way</string>
     <string name="true_button">Hell yes</string>
     <string name="correct_toast">Yeah Boi</string>
     <string name="incorrect_toast">I do not support that</string>
+    <string name="next_button">Next</string>
+    <string name="cheat_button">Cheats!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
 
 </resources>
